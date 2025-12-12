@@ -1,4 +1,4 @@
-## Hi there, I'm Rangerr 👋
+<img width="922" height="633" alt="image" src="https://github.com/user-attachments/assets/cc490280-fe5a-43d3-ab41-60b4960ed74b" />## Hi there, I'm Rangerr 👋
 
 ### 🚀 Aspiring Software Engineer | CS Student @ Open University
 
@@ -20,6 +20,12 @@ I'm a freshman exploring the world of Computer Science. I might be a **newbie** 
 
 ---
 
-### 📊 GitHub Stats
-![Rangerr's Stats](https://github-readme-stats.vercel.app/api?username=itsrangerr&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrangerr&layout=compact&theme=tokyonight&hide_border=true)
+### 🔥 My Stats & Streaks
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrangerr&theme=tokyonight&hide_border=true" alt="Rangerr's Streak" />
+</p>
+
+### 📊 Language Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrangerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
