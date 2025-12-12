@@ -21,7 +21,5 @@ I'm a freshman exploring the world of Computer Science. I might be a **newbie** 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrangerr&show_icons=true&theme=tokyonight&hide_border=true" alt="Rangerr's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrangerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+![Rangerr's Stats](https://github-readme-stats.vercel.app/api?username=itsrangerr&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrangerr&layout=compact&theme=tokyonight&hide_border=true)
