@@ -14,14 +14,8 @@ I'm a freshman exploring the world of Computer Science. I might be a **newbie** 
 ### 🛠 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,vscode,git,github,windows" />
+    <img src="https://skillicons.dev/icons?i=cpp,,vscode,git,github" />
   </a>
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsrangerr&show_icons=true&theme=tokyonight&hide_border=true" alt="Rangerr's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrangerr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
