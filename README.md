@@ -14,8 +14,6 @@ I'm a freshman exploring the world of Computer Science. I might be a **newbie** 
 ### 🛠 Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=cpp,vscode,github" />
   </a>
 </p>
-
----
